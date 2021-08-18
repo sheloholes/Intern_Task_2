@@ -1,2 +1,2 @@
 # Intern_Task_2
-45%HTML,45%CSS ,5%JS and 5%Luck.
+60%HTML,20%CSS ,10%JS and 10%Luck.
